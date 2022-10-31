@@ -182,7 +182,6 @@ public class SSLSocketClientWithClientAuthEjemplo {
 		} catch (Exception e) {
 				throw new IOException(e.getMessage());}
 
-			System.out.println("host "+host + " port "+port);
 	  SSLSocket socket = (SSLSocket)factory.createSocket(host, port);
 
 	  // Ver los protocolos
