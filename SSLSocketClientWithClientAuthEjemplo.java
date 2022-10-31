@@ -2,6 +2,7 @@ package ClienteWeb;
 /*
  * @(#)SSLSocketClientWithClientAuth.java	1.5 01/05/10
  *
+ * 
  * Copyright 1994-2004 Sun Microsystems, Inc. All Rights Reserved. 
  *
  * Redistribution and use in source and binary forms, with or 
